@@ -1,4 +1,4 @@
-a = 2
-b = 3
-c = a*b
-print (f"hasil {c}")
+a = 10
+b = 2
+c = a/b
+print (c)
